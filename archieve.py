@@ -1,5 +1,5 @@
 #Variables
-name = "Dillon"
+name = "Username"
 
 print(name)
 
@@ -20,8 +20,8 @@ print(type(name))
 is_game_over = True
 print(is_game_over)
 
-name = "Dillon"
-age = 27
+name = "Username"
+age = 28
 print("Hello my name is {} and I am {} years old".format(name,age))
 
 PI = 3.14
@@ -53,8 +53,8 @@ print(five_squared)
 x_position += 1
 print(x_position)
 
-first_name = "Dillon "
-last_name = "Porter "
+first_name = "First "
+last_name = "Last Name "
 print(first_name + last_name)
 
 
